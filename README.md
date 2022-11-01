@@ -3,7 +3,7 @@
 - 👀 I’m interested in working out and everything related with data!
 - 🌱 I’m currently learning R Programming, Python and SQL in DataCamp.
 - 💞️ I’m looking to collaborate on anything related with extracting, transforming and loading any sort of data.
-- 📫 You can contact me via email at ahmadzuhairbinzainol@gmail.com
+- 📫 You can contact me via email at ahmadzuhairbinzainol@gmail.com or moblie phone at +6019-3221997
 
 <!---
 ahmadzuhairzainol/ahmadzuhairzainol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
