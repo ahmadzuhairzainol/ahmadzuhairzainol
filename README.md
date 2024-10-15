@@ -1,3 +1,6 @@
+# Hi, I'm Zuhair 👋
+
+```javascript
 const [Zuhair] = {
   code: ["Ruby", "R", "Python", "SQL", "HTML", "CSS", "JavaScript"],
   askMeAbout: ["web scraping", "data extraction", "data engineering", "real estate data", "property analytics", "Rails apps", "bots", "data fixes"],
